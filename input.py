@@ -1,0 +1,5 @@
+print("Masukkan nama : ")
+nama = input()
+print(f"Hallo {nama}, selamat belajar")
+kota = input("Di Kota mana kamu tinggal : ")
+print(f"{kota} adalah tempat yang bagus")
