@@ -46,8 +46,16 @@ def check_status_urls(urls):
             print(f'{url:20s}\t{status:20s}\t{code}')
  
 # list of urls to check
-URLS = ['https://google.com',
-        'https://youtube.com',
-        'https://detik.com']
+URLS = ['https://rnd-sonar.brilife.co.id/',
+        'https://rnd-jenkins.brilife.co.id/',
+        'https://rnd-gitlab.brilife.co.id/',
+        'https://rnd-portainer.brilife.co.id/',
+        'https://rnd-kubedash.brilife.co.id/',
+        'https://rnd-graph.brilife.co.id/',
+        'http://10.28.3.68:8080/',
+        'https://rnd-registry.brilife.co.id/',
+        'https://rnd-testing.brilife.co.id/',
+        'https://rnd-minio-operator.brilife.co.id/',
+        'https://rnd-minioconsole.brilife.co.id/']
 # check all urls
 check_status_urls(URLS)
