@@ -1,3 +1,12 @@
+##########################################
+# AUTHOR    : Assidik14
+# MAIL      : a.maulanaassidik14@gmail.com
+############### REQUIREMENT ##############
+# Python 3.10.* Already Installed
+# sshpass Already Installed
+##########################################
+
+
 import os
 import getpass
 
