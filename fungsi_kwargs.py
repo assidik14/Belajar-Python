@@ -24,7 +24,7 @@ MyFriends(nama="Otong", tinggi=165, berat=50)
 
 
 # Contoh lain KWARGS
-def math(*kumpulan_angka, **operasi): # *kumpulan_angka = tuples, **operasi = dictionary
+def math(*kumpulan_angka:int, **operasi:str)->int: # *kumpulan_angka = tuples, **operasi = dictionary
     if operasi["opsi"] == "tambah": # Jika variable operasi dengan keys opsi nilainya 'tambah'
         print("Operasi penjumlahan")
         hasil = 0 # variable hasil untuk menyimpan hasil penjumlahan variable kumpulan_angka
