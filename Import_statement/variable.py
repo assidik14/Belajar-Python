@@ -1,0 +1,1 @@
+data = "Ini data string pada file variable.py"
