@@ -1,0 +1,3 @@
+Tulis ke file data1.txt lagi, maka tulisan sebelumnya di overwrite tulisan ini
+Tulisan ini ditambahkan ke file data1.txt dengan mode append
+Tambah lagi dengan append

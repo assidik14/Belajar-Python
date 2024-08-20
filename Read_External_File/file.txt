@@ -1,0 +1,3 @@
+Hallo, ini adalah isi file.txt
+ini baris kedua
+dan ini baris ketiga
